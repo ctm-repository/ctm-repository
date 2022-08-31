@@ -1,3 +1,5 @@
-### Hi there 👋
+### Olá Pessoal 👋
 
-Esse é um README para o meu perfil do GitHub
+Esse GitHub tem o objetivo de auxiliar os alunos e armazenar os conteúdos desenvolvidos em aula.
+
+Sejam bem vindos e fiquem a vontade para consumir os materiais.
